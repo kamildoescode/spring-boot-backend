@@ -1,4 +1,4 @@
-Simple spring boot backend, targeting Java 17.
+Simple spring boot backend, Java 17.
 
 # Paths
 - default path ("/") -> DefaultPathResponse {message, timestamp}
